@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;list-employees.html&apos; to &apos;employees&apos;" description="Move &apos;list-employees.html&apos; to &apos;employees&apos;" destination="src/main/resources/templates/employees" element1="src/main/resources/templates/list-employees.html" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1597031725521" updateReferences="true"/>
+</session>

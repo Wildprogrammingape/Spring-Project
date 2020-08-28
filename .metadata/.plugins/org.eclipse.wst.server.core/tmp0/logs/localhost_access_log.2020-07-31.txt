@@ -1,0 +1,10 @@
+127.0.0.1 - - [31/Jul/2020:16:26:12 -0400] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:13 -0400] "GET /web-customer-tracker/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:14 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 4249
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:14 -0400] "GET /web-customer-tracker/resources/css/style.css HTTP/1.1" 200 1049
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:19 -0400] "GET /web-customer-tracker/customer/showFormForUpdate?customerId=5 HTTP/1.1" 200 1539
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:19 -0400] "GET /web-customer-tracker/resources/css/add-customer-style.css HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:21 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 4249
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:25 -0400] "GET /web-customer-tracker/customer/delete?customerId=3 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:25 -0400] "GET /web-customer-tracker/customer/list HTTP/1.1" 200 3595
+0:0:0:0:0:0:0:1 - - [31/Jul/2020:16:26:28 -0400] "GET /web-customer-tracker/customer/showFormForUpdate?customerId=1 HTTP/1.1" 200 1539
